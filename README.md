@@ -68,5 +68,5 @@ A.아이 프로젝트에서 Kotlin을 사용한 Android 앱 개발 총괄 및 �
 
 ## 설치 방법
 
-- 구글 플레이스토어 주소 : [링크](https://play.google.com/store/apps/details?id=com.woojun.ai)
+- 구글 플레이스토어 주소 : [링크](https://play.google.com/store/apps/details?id=com.woojun.ai) (서버 중지)
 
