@@ -7,7 +7,7 @@
 - 플랫폼 : 안드로이드/모바일
 - 제작 인원 : 3 인 (팀 구성 ― 안드로이드 1명, 백엔드 1명, A.I 1명)
 - 제작 기간 : 53 일 (2023.04.27 ~ 2023.06.15), (2023.07.13), (2023.08.01), (2023.08.09), (2023.11.15)
-- 사용 기술 : Kotlin, XML, ViewBinding, Firebase, Glide, Room
+- 사용 기술 : Kotlin, XML, ViewBinding, Firebase, Glide, Room, Retrofit2
 
 ['STA+C 2023 최우수' 수상작](https://game.donga.com/109759/)<br>
 
