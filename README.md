@@ -55,6 +55,7 @@ https://github.com/JangWoojun/A.child/assets/102157871/fbdfb9e0-137d-4e53-aaab-4
     - 회원탈퇴 기능
     - 개인정보 재설정 기능
     - 개인정보 처리방침 확인
+- 회원가입 및 로그인
 
 <br>
 
